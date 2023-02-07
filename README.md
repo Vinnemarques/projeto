@@ -35,9 +35,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
-
-
 
 
 ## :memo: Licença
@@ -46,6 +43,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-<footer>
-        © Vinnemarques. <a href="#" target="_blank">Resilience </a><ion-icon name="rocket"></ion-icon>
-      </footer>
+Feito por © Vinnemarques :wave: [Participe da minha comunidade!](https://discord.gg/rocketseat)
